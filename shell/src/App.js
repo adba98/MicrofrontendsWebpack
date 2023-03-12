@@ -1,5 +1,10 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import MarketingApp from './components/MarketingApp';
 
 export default () => {
-  return <h1>Shell</h1>;
+  return (
+    <Fragment>
+      <MarketingApp />
+    </Fragment>
+  );
 };
