@@ -34,6 +34,13 @@ npm install
 
 - [Webpack](https://webpack.js.org/) - Module Federation
 
+# Deployment AWS
+
+- Github (actions and secrets)
+- IAM (Access Keys)
+- S3 (Static Web Site)
+- Cloudfront
+
 <!-- Markdown links -->
 
 [udemy-image]: https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
